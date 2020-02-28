@@ -2,3 +2,5 @@ Ini rencana nya bikin game fps
 #pertama bikin map sederhana
 #kedua bikin gameplay sederhana
 #ketiga bikin algoritma sederhana
+
+$keempat bisa pamer ke temen temen hehe
